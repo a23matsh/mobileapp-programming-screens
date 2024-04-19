@@ -45,7 +45,8 @@ Upload all artifacts as described in the assignment requirements.<
 
 Bilder läggs i samma mapp som markdown-filen.
 
-![](Screenshot_Screens.png)
+![](Screenshot_Screens2.png)
+
 
 Läs gärna:
 
