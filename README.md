@@ -45,7 +45,7 @@ Upload all artifacts as described in the assignment requirements.<
 
 Bilder läggs i samma mapp som markdown-filen.
 
-![](android.png)
+![](Screenshot_Screens.png)
 
 Läs gärna:
 
