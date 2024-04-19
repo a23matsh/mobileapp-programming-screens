@@ -17,14 +17,15 @@ public class SecondActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_second);
 
+        // Retrieving the intent extras
         Bundle extras = getIntent().getExtras();
         if (extras != null) {
-            String name = extras.getString("Hello");
-            int number = extras.getInt("1000");
+            String name = extras.getString("MessageTest");
+            int number = extras.getInt("number");
             TextView textView = findViewById(R.id.textView);
             TextView textView2 = findViewById(R.id.textView2);
             textView.setText(name);
-            textView.setText("" + number);
+            textView2.setText("" + number);
 
 
         }
