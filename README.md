@@ -23,26 +23,6 @@ textView.setText(name);
 textView2.setText("" + number);
 
 
-
-## Följande grundsyn gäller dugga-svar:
-
-- Ett kortfattat svar är att föredra. Svar som är längre än en sida text (skärmdumpar och programkod exkluderat) är onödigt långt.
-- Svaret skall ha minst en snutt programkod.
-- Svaret skall inkludera en kort övergripande förklarande text som redogör för vad respektive snutt programkod gör eller som svarar på annan teorifråga.
-- Svaret skall ha minst en skärmdump. Skärmdumpar skall illustrera exekvering av relevant programkod. Eventuell text i skärmdumpar måste vara läsbar.
-- I de fall detta efterfrågas, dela upp delar av ditt svar i för- och nackdelar. Dina för- respektive nackdelar skall vara i form av punktlistor med kortare stycken (3-4 meningar).
-
-Programkod ska se ut som exemplet nedan. Koden måste vara korrekt indenterad då den blir lättare att läsa vilket gör det lättare att hitta syntaktiska fel.
-
-/*Fork the app screens and clone the fork from your own Github repository in Android Studio
-Your forked GitHub project must have at least three meaningfull commits of code with descriptive comments. Remember to keep your commits brief and your commit messages informative. A reader of the commit history should be able to determine what change is included in a particular commit. We require at least 3 commits of program code that are meaningful.
-Add a second activity
-Add a button in the first activity that starts the second activity
-Add data to the intent bundle using extras
-In the layout of in the second activity add least one widget to show data from the intent
-Write a short report where you explain the things that you have done
-Upload all artifacts as described in the assignment requirements.<
-
 Bilder läggs i samma mapp som markdown-filen.
 
 ![](Screenshot_Screens2.png)
